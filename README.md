@@ -107,19 +107,3 @@ git remote add origin https://github.com/YOUR_USERNAME/weather-trend-forecasting
 git push -u origin main
 ```
 
-Make the repository public, or invite:
-
-```text
-community@pmaccelerator.io
-hr@pmaccelerator.io
-```
-
-## Demo Video Talking Points
-
-- Explain the project objective.
-- Show where the dataset is loaded.
-- Show the data cleaning steps.
-- Show EDA visualizations.
-- Show model comparison metrics.
-- Show anomaly detection and feature importance.
-- Show the dashboard output.
