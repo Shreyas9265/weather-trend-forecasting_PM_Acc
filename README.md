@@ -2,9 +2,6 @@
 
 This project analyzes the Kaggle Global Weather Repository dataset and forecasts future weather trends. It includes data cleaning, exploratory data analysis, forecasting models, anomaly detection, feature importance, air quality correlation, and a simple Streamlit dashboard.
 
-## PM Accelerator Mission
-
-PM Accelerator's mission is to provide access to education and career growth opportunities. This project includes that mission in the dashboard/report as requested by the assessment.
 
 ## Dataset
 
